@@ -1,4 +1,4 @@
-Archive of the slides and other material related to the lectures presented at the Geneva Haskell Meetups. Month-groups below are sorted reverse chronologically.
+Archive of the slides and other material related to the lectures presented at the Geneva Haskell Meetups. Month-groups below are sorted in reverse chronological order.
 
 ### July, 2014
 * [Currying, Function Application and Partial Application](https://github.com/haskell-geneva/lectures/blob/master/talk20140702.pdf) - _Ian-Woo Kim_
