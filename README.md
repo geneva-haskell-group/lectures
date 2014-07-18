@@ -3,7 +3,7 @@ Archive of the slides and other material related to the lectures presented at th
 ### July, 2014
 
 * July 18
-    - live coding material : [livecoding_20140717.hs](https://github.com/haskell-geneva/lectures/blob/master/livecoding_20140717.hs)
+    - live coding material : *please upload actual live coding file*
     - puzzle : *please add the problems*, 
         - solution : [puzzle_soln_IWKIM_20140717.hs](https://github.com/haskell-geneva/lectures/blob/master/puzzle_soln_IWKIM_20140717.hs)
 * July 10 
