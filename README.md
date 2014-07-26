@@ -1,3 +1,10 @@
+Useful material for newbies:
+- [Learn You A Haskell for Great Good](http://learnyouahaskell.com/chapters)
+- [Real World Haskell](http://book.realworldhaskell.org/read/)
+- [Typeclassopedia](http://www.haskell.org/haskellwiki/Typeclassopedia)
+
+You should read these three sources in the order of the list above.
+
 Archive of the slides and other material related to the lectures presented at the Geneva Haskell Meetups. Month-groups below are sorted in reverse chronological order.
 
 ### July, 2014
