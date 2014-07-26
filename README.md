@@ -8,14 +8,15 @@ Archive of the slides and other material related to the lectures presented at th
 * July 17
     - live coding material : *please upload actual live coding file*
     - puzzle : *Robert, please add the problems*, 
-        - solution : [puzzle_soln_IWKIM_20140717.hs](https://github.com/haskell-geneva/lectures/blob/master/puzzle_soln_IWKIM_20140717.hs)
+        - solution : [puzzle_soln_IWKIM_20140717.hs](https://github.com/geneva-haskell-group/lectures/blob/master/puzzle_soln_IWKIM_20140717.hs)
 * July 10 
-    - [Functors, Applicative, Monads](https://github.com/haskell-geneva/lectures/blob/master/talk201407010.pdf) - _Daniel Pek_
-    - live coding material : [livecoding1_20140710.hs](https://github.com/haskell-geneva/lectures/blob/master/livecoding1_20140710.hs), [livecoding2_20140710.hs](https://github.com/haskell-geneva/lectures/blob/master/livecoding2_20140710.hs)
+    - [Functors, Applicative, Monads](
+    - https://github.com/geneva-haskell-group/lectures/blob/master/talk20140710.pdf) - _Daniel Pek_
+    - live coding material : [livecoding1_20140710.hs](https://github.com/geneva-haskell-group/lectures/blob/master/livecoding1_20140710.hs), [livecoding2_20140710.hs](https://github.com/geneva-haskell-group/lectures/blob/master/livecoding2_20140710.hs)
 * July 2
-    - [Currying, Function Application and Partial Application](https://github.com/haskell-geneva/lectures/blob/master/talk20140702.pdf)  - _Doh Young Mo_
+    - [Currying, Function Application and Partial Application](https://github.com/geneva-haskell-group/lectures/blob/master/talk20140702.pdf)  - _Doh Young Mo_
 
 ### June, 2014
 * June 26 
-    - [Lazy Evaluation and Folds](https://github.com/haskell-geneva/lectures/blob/master/talk20140626.pdf)  - _Ian-Woo Kim_
+    - [Lazy Evaluation and Folds](https://github.com/geneva-haskell-group/lectures/blob/master/talk20140626.pdf)  - _Ian-Woo Kim_
 
