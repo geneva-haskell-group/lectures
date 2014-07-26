@@ -10,7 +10,7 @@ Archive of the slides and other material related to the lectures presented at th
     - puzzle : *Robert, please add the problems*, 
         - solution : [puzzle_soln_IWKIM_20140717.hs](https://github.com/haskell-geneva/lectures/blob/master/puzzle_soln_IWKIM_20140717.hs)
 * July 10 
-    - [Functors, Applicative, Monads](http://localhost) - _Daniel Pek_ (Daniel, please add the pictures)
+    - [Functors, Applicative, Monads](https://github.com/haskell-geneva/lectures/blob/master/talk201407010.pdf) - _Daniel Pek_
     - live coding material : [livecoding1_20140710.hs](https://github.com/haskell-geneva/lectures/blob/master/livecoding1_20140710.hs), [livecoding2_20140710.hs](https://github.com/haskell-geneva/lectures/blob/master/livecoding2_20140710.hs)
 * July 2
     - [Currying, Function Application and Partial Application](https://github.com/haskell-geneva/lectures/blob/master/talk20140702.pdf)  - _Doh Young Mo_
