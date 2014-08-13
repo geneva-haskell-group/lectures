@@ -7,11 +7,16 @@ You should read these three sources in the order of the list above.
 
 Archive of the slides and other material related to the lectures presented at the Geneva Haskell Meetups. Month-groups below are sorted in reverse chronological order.
 
+### August, 2014
+
+* August 12
+    - [livecoding Chatter part2](https://github.com/geneva-haskell-group/lectures/blob/master/livecoding_20140812_chatter) - _Ian-Woo Kim
+
 ### July, 2014
 
 * July 29
     - Fun with streams,streams,streams: *PLEASE UPLOAD THE TALK FILE*
-    - [livecoding Chatter](https://github.com/geneva-haskell-group/lectures/blob/master/livecoding_20140729_chatter) - _Ian-Woo Kim_
+    - [livecoding Chatter part1](https://github.com/geneva-haskell-group/lectures/blob/master/livecoding_20140729_chatter) - _Ian-Woo Kim_
 * July 22
     - [Lenses - How to use setters and getters in Haskell](http://localhost) - _Robert Zaremba_ (Robert, please fix the link)
     - LGtk Plot Demo app: https://github.com/pdani/lgtk-plot-demo
