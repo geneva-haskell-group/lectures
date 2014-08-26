@@ -10,7 +10,7 @@ Archive of the slides and other material related to the lectures presented at th
 ### August, 2014
 
 * August 12
-    - [livecoding Chatter part2](https://github.com/geneva-haskell-group/lectures/blob/master/livecoding_20140812_chatter) - _Ian-Woo Kim
+    - [livecoding Chatter part2](https://github.com/geneva-haskell-group/lectures/blob/master/livecoding_20140812_chatter) - _Ian-Woo Kim_
 
 ### July, 2014
 
