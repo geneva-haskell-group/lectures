@@ -2,6 +2,11 @@ Useful material for newbies:
 - [Learn You A Haskell for Great Good](http://learnyouahaskell.com/chapters)
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 - [Typeclassopedia](http://www.haskell.org/haskellwiki/Typeclassopedia)
+- [Haskell Wikibooks](http://en.wikibooks.org/wiki/Haskell)
+
+good articles
+- [Why Functional Programming Matters](http://worrydream.com/refs/Hughes-WhyFunctionalProgrammingMatters.pdf) 
+
 
 You should read these three sources in the order of the list above.
 
